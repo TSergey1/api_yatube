@@ -41,7 +41,7 @@ class Post(models.Model):
         default_related_name = 'posts'
 
     def __str__(self):
-        return self.text
+        return self.text[:30]
 
 
 class Comment(models.Model):
@@ -66,4 +66,4 @@ class Comment(models.Model):
         default_related_name = 'comments'
 
     def __str__(self):
-        return self.text
+        return self.text[:30]
