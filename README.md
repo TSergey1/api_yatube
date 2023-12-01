@@ -1,4 +1,11 @@
 # Финальный проект по API
+
+[![License MIT](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/license/mit/)
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-464646?style=flat-square&logo=Django%20REST%20Framework)](https://www.django-rest-framework.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-464646?style=flat-square&logo=SQLite)](https://www.sqlite.org/index.html)
+
 ## Описание
 #### Польза проекта в том, что он дает пользоваться функционалом приложения не посещая сайт.
 ##### Реализован функционал дающий возможность:
